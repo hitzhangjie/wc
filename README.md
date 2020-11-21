@@ -57,5 +57,6 @@ find -iname "*zh_CN.md" -print0 | grep -z -v _book | grep -z -v node_modules |  
 305	633	7495	11145	./7-develop-inst-debugger/3-process_start_attach.zh_CN.md	
 305	634	7124	11646	./7-develop-inst-debugger/4-disassemble.zh_CN.md		
 419	857	17106	33678	./5-dwarf/4-other-callframe-info.zh_CN.md			
-507	1881	13658	13660	./8-develop-sym-debugger/x-gopkg.zh_CN.md
+507	1881	13658	13660	./8-develop-sym-debugger/x-gopkg.zh_CN.md			
+4952	12532	152654	253899	total
 ```
